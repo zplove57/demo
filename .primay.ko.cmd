@@ -1,0 +1,1 @@
+cmd_/home/user/driver/module_orig_char/modules_auto/primay.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/user/driver/module_orig_char/modules_auto/primay.ko /home/user/driver/module_orig_char/modules_auto/primay.o /home/user/driver/module_orig_char/modules_auto/primay.mod.o
